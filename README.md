@@ -1,6 +1,4 @@
-<h1 align="center">Hello, 世界 👋 My name is Not</h1>
-
-<table align="center">
+<table align="top">
   <thead>
     <tr>
       <td>
